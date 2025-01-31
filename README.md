@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelabc&label=Profile%20views&color=0e75b6&style=flat" alt="joelabc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelabc" alt="joelabc" /></a> </p>
-
 - I am currently working on my blog [joelabc](www.joelabc.com)
+
+- I’m currently learning **Java, Docker, Go**
 
 - I work as a fulltime Software Test Engineer at **Guidehouse**
 
@@ -13,7 +13,7 @@
 
 - Everything else is under construction at [www.joelabc.com](www.joelabc.com)
 
-- 💬 Ask me about **life, photography, health**
+- Ask me about **life, photography, health, fitness, design**
 
 - Drop me an email at **joelabc.dev@gmail.com**
 
