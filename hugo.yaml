@@ -21,21 +21,21 @@ enableGitInfo: true
 
 menu:
   main:
-    # - name: Blog
-    #   pageRef: /blog
-    #   weight: 1
-    # - name: Favourite
-    #   pageRef: /docs
-    #   weight: 2
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: Favourite
+      pageRef: /docs
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 1
-    # - name: Gallery
-    #   pageRef: /gallery
-    #   weight: 4
-    # - name: Wall
-    #   pageRef: /gallery
-    #   weight: 5
+      weight: 3
+    - name: Gallery
+      pageRef: /gallery
+      weight: 4
+    - name: Wall
+      pageRef: /gallery
+      weight: 5
     - name: Search
       weight: 6
       params:
@@ -56,8 +56,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: /static/images/logo.svg
-      dark: /static/images/logo-dark.svg
+      path: /joelabc/static/images/logo.svg
+      dark: /joelabc/static/images/logo-dark.svg
       link: /joelabc
       width: 40
       height: 20

@@ -7,16 +7,16 @@ sidebar:
 
 Pages can be organized into folders.
 
-## HEading
+## Heading
 
-## HEading
+## Heading
 
-## HEading
+## Heading
 
-## HEading
+## Heading
 
-## HEading
+## Heading
 
-## HEading
+## Heading
 
-## HEading
+## Heading
