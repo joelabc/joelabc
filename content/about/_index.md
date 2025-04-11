@@ -11,4 +11,4 @@ This is the about page.
   {{< card link="mailto:joelabc.dev@gmail.com" title="Email Me" >}}
   {{< card link="/" title="Right Card" >}}
   {{< card link="/" title="Right Card" >}}
-{{< /cards >}}
+{{< /cards >}} 
