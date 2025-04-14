@@ -4,7 +4,7 @@ next: first-page
 type: docs
 ---
 
-## In nature's lap the best ideas foster
+## In nature's lap the best ideas foster.
 
 #### A wanderer who is lost
 

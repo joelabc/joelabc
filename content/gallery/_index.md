@@ -1,6 +1,5 @@
 ---
 title: Gallery
-next: first-page
 type: docs
 ---
 
