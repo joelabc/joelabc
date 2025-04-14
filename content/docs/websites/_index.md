@@ -5,18 +5,8 @@ sidebar:
   open: false
 ---
 
-Pages can be organized into folders.
+Simple websites that are such great resources or tools or services just anything that I've come across tht felt like someone else could make use of too.
 
-## Heading
-
-## Heading
-
-## Heading
-
-## Heading
-
-## Heading
-
-## Heading
-
-## Heading
+{{< cards cols="2" >}}
+{{< card link="/docs/websites/print-a-calendar" title="print-a-calendar - duh" >}}
+{{< /cards >}}

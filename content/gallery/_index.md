@@ -1,24 +1,12 @@
 ---
 title: Gallery
 next: first-page
-type: blog
+type: docs
 ---
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+An place for pictures I take and to share the stories behind them.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-## DJI Osmo Action
-
-![](image.jpg)
+{{< cards cols="5" >}}
+{{< card link="nature" title="Nature" >}}
+{{< card link="tech" title="Technology" >}}
+{{< /cards >}}

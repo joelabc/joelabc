@@ -21,35 +21,27 @@ enableGitInfo: true
 
 menu:
   main:
-    - name: Blog
-      pageRef: /blog
-      weight: 1
-    - name: Favourite
+    # - name: Blog
+    #   pageRef: /blog
+    #   weight: 1
+    - name: Interesting
       pageRef: /docs
-      weight: 2
+      weight: 1
     - name: About
       pageRef: /about
-      weight: 3
+      weight: 2
     - name: Gallery
       pageRef: /gallery
-      weight: 4
-    - name: Wall
-      pageRef: /gallery
-      weight: 5
+      weight: 3
     - name: Search
-      weight: 6
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 7
+      weight: 5
       url: "https://github.com/joelabc"
       params:
         icon: github
-    - name: Twitter
-      weight: 8
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
@@ -68,7 +60,7 @@ params:
 
   page:
     # full (100%), wide (90rem), normal (1280px)
-    width: wide
+    width: full
 
   editURL:
     enable: false
@@ -81,3 +73,4 @@ services:
   # Display the last modification date
 displayUpdatedDate: true
 dateFormat: "January 2, 2006"
+enableInlineShortcodes: true
