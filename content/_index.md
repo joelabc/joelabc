@@ -30,5 +30,5 @@ I didn't find themes to build on that I liked and was too lazy/had no time to bu
 
 Feedback would be invaluable at this stage. Let me know how I can make this better and help you in any way I can.
 {{< cards cols="5">}}
-{{< card link="docs" title="Email" icon="mail" >}}
+{{< card link="mailto:joelabc.dev@gmail.com" title="Email" icon="mail" >}}
 {{< /cards >}}
