@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelabc&label=Profile%20views&color=0e75b6&style=flat" alt="joelabc" /> </p>
 
-- I am currently working on my blog **wwww.joelabc.com**
+- I am currently working on my blog **www.joelabc.com**
 
 - I’m currently learning **Java, Docker, Go**
 
