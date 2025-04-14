@@ -17,7 +17,7 @@ Graphic Design ◦ Brand Identity ◦ Photography
 
 {{% /steps %}}
 {{< cards cols="3">}}
-{{< card link="docs" title="Email" icon="mail" >}}
+{{< card link="mailto:joelabc.dev@gmail.com" title="Email" icon="mail" >}}
 {{< card link="https://www.linkedin.com/in/joelabc/" title="LinkedIn" icon="linkedin" >}}
 {{< card link="https://www.youtube.com/@joelab.c" title="YouTube" icon="youtube" >}}
 {{< card link="https://topmate.io/joelabc/" title="topmate" icon="chip" >}}
