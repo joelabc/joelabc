@@ -15,11 +15,11 @@ I'm Joel Abraham,
 | ------------------- | -------------------- | ---------------------- |
 
 {{% details title="Why" closed="true" %}}
-I've always felt the need to share things I find interesting and to do so at scale. My attempts have not been very focused. Eventually the need to share outgrew the procrastination of getting is all that I can say.
+I've always felt the need to share the things I find interesting, and to do so at scale. My attempts so far have not been very focused. Eventually, the need to share outgrew the procrastination of getting started is all that I can say.
 {{% /details %}}
 
 {{% details title="What" closed="true" %}}
-This can be a blog, portfolio, gallery, review forum, update board and more. As of now I am just building as is and will refine as I go. Currently, I am creating a framework on the basis of what excites me the most.
+This site is a blog, portfolio, gallery, review forum, update board and moreThe current framework is based on what excites me the most.
 {{% /details %}}
 
 {{% details title="How" closed="true" %}}
