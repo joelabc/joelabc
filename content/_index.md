@@ -19,7 +19,7 @@ I've always felt the need to share the things I find interesting, and to do so a
 {{% /details %}}
 
 {{% details title="What" closed="true" %}}
-This site is a blog, portfolio, gallery, review forum, update board and moreThe current framework is based on what excites me the most.
+This site is a blog, portfolio, gallery, review forum, update board and more. The current framework is based on what excites me the most.
 {{% /details %}}
 
 {{% details title="How" closed="true" %}}
