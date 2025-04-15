@@ -60,6 +60,6 @@ Here are all the reasons I personally use Twos:
 
 ### Conclusion
 
-I am not trying to convince you to switch to use Twos, but to point out why I chose it for myself. Should you choose to switch to it. Let me know if you have any questions and do check out [Twos](https://www.TwosApp.com?code=joel) _(active referral link)_ while you're at it, cheers!
+I am not trying to convince you to switch to use Twos, but to point out why I chose it for myself. Should you choose to switch to it, that's your call, but you sure will not regret it. Let me know if you have any questions and do check out [Twos](https://www.TwosApp.com?code=joel) _(active referral link)_ while you're at it, cheers!
 
 [Twos YouTube](https://www.youtube.com/@TwosApp)
