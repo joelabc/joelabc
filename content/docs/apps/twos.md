@@ -17,9 +17,10 @@ authors:
 next: /cashew
 ---
 
-![](images/twos-app-icon.png)
+## TLDR;
 
-TLDR; [Twos](https://www.TwosApp.com?code=joel) _(active referral link)_ is the best cross platform, completely free, feature rich note taking/PKM app with a responsive dev team that I am using for my own note taking needs for the last 2 years. Will it suit yours? I guess by the end of this post you will find out.
+![](images/twos-app-icon.png)
+[Twos](https://www.TwosApp.com?code=joel) _(active referral link)_ is the best cross platform, completely free, feature rich note taking/PKM app with a responsive dev team that I am using for my own note taking needs for the last 2 years. Will it suit yours? I guess by the end of this post you will find out.
 
 ### Why do you need another note taking app?
 

@@ -3,19 +3,35 @@ title: About
 type: blog
 ---
 
+## Experience
+
 {{% steps %}}
 
 ### QA Engineer - Guidehouse
 
 _(2020-Present)_
 
-Test Automation ◦ CI/CD ◦ API Testing ◦ Performance Testing ◦ ISTQB 
+Test Automation ◦ CI/CD ◦ API Testing ◦ Performance Testing ◦ ISTQB ◦ JMeter Pro
 
 ### Freelance Designer | Photographer - Kyatsa Solutions
 
 Graphic Design ◦ Brand Identity ◦ Photography
 
 {{% /steps %}}
+
+## Skills
+
+| **Languages**                                         | **Tools**                                                                                                        |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `Java` `SQL` `Python` `Gherkin` `Python` `JavaScript` | `TestComplete` `Selenium` `TestNG` `Maven` `LoadNinja` `JMeter` `GitHub` `ReadyAPI` `Postman` `Jenkins` `Docker` |
+
+## Interests
+
+| `Cycling` `Swimming` `Running` `Writing` `Photography` `Duolingo` `Philosophy` `Cooking` |
+| ---------------------------------------------------------------------------------------- |
+
+## Contact me
+
 {{< cards cols="3">}}
 {{< card link="mailto:joelabc.dev@gmail.com" title="Email" icon="mail" >}}
 {{< card link="https://www.linkedin.com/in/joelabc/" title="LinkedIn" icon="linkedin" >}}

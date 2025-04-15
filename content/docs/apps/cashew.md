@@ -16,9 +16,10 @@ authors:
     image: https://github.com/joelabc.png
 ---
 
+## TLDR;
 ![](images/cashew-app.png)
+[Cashew](https://github.com/jameskokoska/Cashew) is your one stop personal finance app with expense tracking, budgeting, net worth calculation and so much more. It's code has been open sourced, the project is actively in development, the interface and animations are blissful, works locally with optional sync to your own cloud. Import, export and no limit on the history!
 
-TLDR; [Cashew](https://github.com/jameskokoska/Cashew) is your one stop personal finance app with expense tracking, budgeting, net worth calculation and so much more. It's code has been open sourced, the project is actively in development, the interface and animations are blissful, works locally with optional sync to your own cloud. Import, export and no limit on the history!
 
 ### Finances? Tracking? BORING!
 
@@ -46,11 +47,11 @@ Not necessarily. All you need is to label each expense as you make it and catego
 
 ### Ok Joe, But why Cashew?
 
-To put it simply, Cashew offers a great deal of features for not all that complexity. Having tried multiple apps, paid ones, free ones, self hosted ones and more, Cashew is the one app I consistently come back to. 
+To put it simply, Cashew offers a great deal of features for not all that complexity. Having tried multiple apps, paid ones, free ones, self hosted ones and more, Cashew is the one app I consistently come back to.
 
 Here are all the reasons I personally use Cashew:
 
-1. **It is open source and completely free to use** : There is a *"paywall"* that asks you to pay, and indeed you should if you can afford to in order to support the developer. But you can unlock it for free by staying on the page for 20ish seconds.
+1. **It is open source and completely free to use** : There is a _"paywall"_ that asks you to pay, and indeed you should if you can afford to in order to support the developer. But you can unlock it for free by staying on the page for 20ish seconds.
 
 2. **UI/UX** : This has to be the best application I have used by far. It is miles ahead of any other application in terms of the beauty of the UI. Truly is a work of art. The animations, the common sense gestures, the flowy charts. If nothing, you gotta try out the app just for this.
 
@@ -58,7 +59,7 @@ Here are all the reasons I personally use Cashew:
 
 4. **Local first** : The app does not need an internet connection or even an account for that matter. It works on .sqlite files that are stored locally. If you need the sync features, you can connect it to your own Google account and your Google Drive so it works on multiple devices.
 
-5. **Great team** : As it goes without saying the developer is super nice and responsive via emails. Raise a PR and contribute to the app if you find something to iron out. 
+5. **Great team** : As it goes without saying the developer is super nice and responsive via emails. Raise a PR and contribute to the app if you find something to iron out.
 
 6. **Customizability** : Endlessly customizable from the layout to the colors, to the views. Make it exactly like you want it. This also goes with your budgeting, spending, recurring payments etc, it is all flexible all modifiable.
 
