@@ -5,14 +5,14 @@ type: default
 
 > Lord fill my heart with love, my mind with peace and my whole body with gratitude and humility
 
-## Hey there!
+## **Hey there!**
 
 I'm Joel Abraham,
 
 ![](joel.jpg)
 
-| `QA Engineer🐞` by profession | `Photographer📷` by passion | `Triathlete🏊🏽‍♂️🚴🏽‍♂️🏃🏽‍♂️` by choice |
-| ----------------------------- | --------------------------- | ---------------------------- |
+| **`QA Engineer🐞`** | **`Photographer📷`** | **`Triathlete🏊🏽‍♂️🚴🏽‍♂️🏃🏽‍♂️`** |
+| ------------------- | -------------------- | ---------------------- |
 
 {{% details title="Why" closed="true" %}}
 I've always felt the need to share things I find interesting and to do so at scale. My attempts have not been very focused. Eventually the need to share outgrew the procrastination of getting is all that I can say.

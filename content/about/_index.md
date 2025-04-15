@@ -7,11 +7,11 @@ type: blog
 
 {{% steps %}}
 
-### QA Engineer - Guidehouse
+### QA Engineer | ISTQB® - **Guidehouse**
 
 _(2020-Present)_
 
-Test Automation ◦ CI/CD ◦ API Testing ◦ Performance Testing ◦ ISTQB ◦ JMeter Pro
+Test Automation ◦ CI/CD ◦ API Testing ◦ Performance Testing ◦ JMeter Pro
 
 ### Freelance Designer | Photographer - Kyatsa Solutions
 
@@ -21,7 +21,7 @@ Graphic Design ◦ Brand Identity ◦ Photography
 
 ## Skills
 
-| **Languages**                                         | **Tools**                                                                                                        |
+| Languages                                             | Tools                                                                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | `Java` `SQL` `Python` `Gherkin` `Python` `JavaScript` | `TestComplete` `Selenium` `TestNG` `Maven` `LoadNinja` `JMeter` `GitHub` `ReadyAPI` `Postman` `Jenkins` `Docker` |
 
