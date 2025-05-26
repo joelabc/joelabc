@@ -23,7 +23,7 @@ Graphic Design ◦ Brand Identity ◦ Photography
 
 | Languages                                             | Tools                                                                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| `Java` `SQL` `Python` `Gherkin` `Python` `JavaScript` | `TestComplete` `Selenium` `TestNG` `Maven` `LoadNinja` `JMeter` `GitHub` `ReadyAPI` `Postman` `Jenkins` `Docker` |
+| `Java` `SQL` `Python` `JavaScript` | `TestComplete` `Selenium` `TestNG` `Maven` `LoadNinja` `JMeter` `GitHub` `ReadyAPI` `Postman` `Jenkins` `Docker` |
 
 ## Interests
 
