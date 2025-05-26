@@ -2,4 +2,54 @@
   --primary-hue: 187deg;
   --primary-saturation: 100%;
   --primary-lightness: 50%;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "heading";
+  src: url("/fonts/raleway-extrabold.woff") format("woff");
+}
+@font-face {
+  font-family: "body";
+  src: url("/fonts/raleway-regular.woff") format("woff");
+} */
+
+@font-face {
+  font-family: "heading";
+  src: url("/fonts/raleway-extrabold.woff") format("truetype");
+}
+@font-face {
+  font-family: "nav";
+  src: url("/fonts/SpaceGrotesk-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "code";
+  src: url("/fonts/FiraCode-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "body";
+  src: url("/fonts/SpaceGrotesk-Regular.ttf") format("truetype");
+}
+
+body {
+  font-family: "body", sans-serif;
+  font-weight: 100;
+}
+
+h1,
+h2,
+summary {
+  font-family: "heading", sans-serif;
+  font-weight: 800;
+}
+
+code {
+  font-family: "code", sans-serif;
+}
+
+span {
+  font-family: "nav", sans-serif;
+  font-weight: 400;
 }
