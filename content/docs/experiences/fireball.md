@@ -62,7 +62,7 @@ Okay, I was looking out at the night sky like I do when I get some alone time. T
 
 - Overwhelmed with excitement I let out a loud laugh and proceeded to look at my position relative to what I saw. Lost for an explanation I started ruling out common false positives and immediately pinged my friend who works in IMD for some answers.
 
-Turns out he and a few of his friends saw the same thing. As instructed I [reported this sighting](https://fireballs.imo.net/imo_view/event/2025/2674) on the website of IMO. After a few days the reports of this particular sighting started to come in and I was relieved to kow that this was
+Turns out he and a few of his friends saw the same thing. As instructed I [reported this sighting](https://fireballs.imo.net/imo_view/event/2025/2674) on the website of IMO. After a few days the reports of this particular sighting started to come in and I was relieved to know that this was not my imagination.
 
 ### Conclusion
 
