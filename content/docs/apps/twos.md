@@ -1,5 +1,5 @@
 ---
-title: Twos
+title: ✌🏽 Twos
 type: blog
 sidebar:
   open: true

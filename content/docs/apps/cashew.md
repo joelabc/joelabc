@@ -1,5 +1,5 @@
 ---
-title: Cashew
+title: 🪙 Cashew
 type: blog
 sidebar:
   open: true
@@ -17,9 +17,9 @@ authors:
 ---
 
 ## TLDR;
+
 ![](images/cashew-app.png)
 [Cashew](https://github.com/jameskokoska/Cashew) is your one stop personal finance app with expense tracking, budgeting, net worth calculation and so much more. It's code has been open sourced, the project is actively in development, the interface and animations are blissful, works locally with optional sync to your own cloud. Import, export and no limit on the history!
-
 
 ### Finances? Tracking? BORING!
 

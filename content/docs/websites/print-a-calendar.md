@@ -1,5 +1,5 @@
 ---
-title: print-a-calendar
+title: 📅 print-a-calendar
 type: blog
 sidebar:
   open: true

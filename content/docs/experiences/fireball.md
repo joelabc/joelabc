@@ -1,5 +1,5 @@
 ---
-title: I saw a fireball in the sky!
+title: 🌠 I saw a fireball!
 type: blog
 sidebar:
   open: true

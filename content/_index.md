@@ -7,7 +7,7 @@ type: default
 
 ## **Hey there!**
 
-I'm Joel Abraham,
+I'm Joel Abraham
 
 ![](joel.jpg)
 
