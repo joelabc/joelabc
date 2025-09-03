@@ -21,9 +21,6 @@ enableGitInfo: true
 
 menu:
   main:
-    # - name: Blog
-    #   pageRef: /blog
-    #   weight: 1
     - name: Interesting
       pageRef: /docs
       weight: 1
@@ -74,3 +71,8 @@ services:
 displayUpdatedDate: true
 dateFormat: "January 2, 2006"
 enableInlineShortcodes: true
+
+banner:
+    key: 'announcement-xxx'
+    message: |
+      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.

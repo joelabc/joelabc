@@ -1,20 +1,11 @@
 :root {
-  --primary-hue: 187deg;
-  --primary-saturation: 100%;
-  --primary-lightness: 50%;
+  --primary-hue: 197;
+  --primary-saturation: 100;
+  --primary-lightness: 40;
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
-
-/* @font-face {
-  font-family: "heading";
-  src: url("/fonts/raleway-extrabold.woff") format("woff");
-}
-@font-face {
-  font-family: "body";
-  src: url("/fonts/raleway-regular.woff") format("woff");
-} */
 
 @font-face {
   font-family: "heading";
