@@ -13,5 +13,5 @@ type: docs
 {{< cards cols="2" >}}
 {{< card link="/docs/apps" title="Apps" >}}
 {{< card link="/docs/websites" title="Websites" >}}
-{{< card link="/docs/Experiences" title="Experiences" >}}
+{{< card link="/docs/experiences" title="Experiences" >}}
 {{< /cards >}}
