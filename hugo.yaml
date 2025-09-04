@@ -63,6 +63,12 @@ params:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
+    
+  banner:
+    key: 'announcement-xxx'
+    message: |
+      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
+
 services:
   googleAnalytics:
     ID: G-35G7F6KSN9
@@ -71,8 +77,3 @@ services:
 displayUpdatedDate: true
 dateFormat: "January 2, 2006"
 enableInlineShortcodes: true
-
-banner:
-    key: 'announcement-xxx'
-    message: |
-      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
