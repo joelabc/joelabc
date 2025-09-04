@@ -30,7 +30,7 @@ I've lost count of the number of times that I thought to myself along the lines 
 - "My bank account is empty and it has only been a week since salary has been credited?"
 - "What is this ₹ 1467.97 that has been debited from my account?"
 - "How much am I spending on my training YoY?"
-- "Did I pay Mohit ₹2050 that I borrowed that one time?"
+- "Did I pay Mohan ₹2050 that I borrowed that one time?"
 - "How much did my impulsive solo trip to Badami cost?"
 
 It is boring to talk about money vaguely and a futile exercise to do so without any system or process to manage it. Overspending, redundancies, oversight, anxiety are all the result of poor money decisions and can harm both your financial and mental well being. Recurring payments have a special spot in this fiasco as they are fixed expenses if not accounted for before you spend money, can throw your whole month off track.
