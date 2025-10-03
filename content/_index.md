@@ -13,7 +13,7 @@ type:
  
 
 
-{{< hextra/hero-container image="/images/Signature.png"  cols=2 imageTitle="title" >}}
+{{< hextra/hero-container image="images/s.png"  cols=2 imageTitle="title" >}}
     {{< hextra/hero-headline >}}
   Welcome to my digital space. 
 {{< /hextra/hero-headline >}}

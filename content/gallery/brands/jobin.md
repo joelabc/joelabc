@@ -9,7 +9,7 @@ A quick prototype design for my friend Jobin who is a freelance developer.
 ##  Logo Design
 
 
-![brand kit](/images/j-hero.png)
+![brand kit](images/j-hero.png)
 
 
 
