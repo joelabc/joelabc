@@ -7,11 +7,10 @@ type:
 {{< date.inline ":date_full" >}}
   {{- now | time.Format (.Get 0) -}}
 {{< /date.inline >}}.
-<br class="hx:sm:block hx:hidden" /> 
 
 >Lord fill my heart with love, my mind with peace and my whole body with gratitude and humility
 
-<br class="hx:sm:block hx:hidden" />
+&nbsp;<br class="hx:sm:block hx:hidden" />
  
 
 
@@ -24,11 +23,12 @@ type:
 {{< /hextra/hero-subtitle >}}
 {{< /hextra/hero-container >}}
 
-<br class="hx:sm:block hx:hidden" />
+&nbsp;<br class="hx:sm:block hx:hidden" />
 
 {{< youtube c8S0gi-IXGM >}}
 
-<br class="hx:sm:block hx:hidden" />
+
+&nbsp;<br class="hx:sm:block hx:hidden" />
 
 This is one video I made quite some time ago, but felt apt to share without any context.
 
