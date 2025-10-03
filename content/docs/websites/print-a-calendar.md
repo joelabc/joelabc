@@ -16,9 +16,22 @@ authors:
     image: https://github.com/joelabc.png
 ---
 
-![](images/print-a-calendar-logo.png)
+{{< hextra/hero-container image="/images/print-a-calendar-logo.png"  cols=2 imageTitle="title" >}}
 
-TLDR; [print-a-calendar](https://print-a-calendar.com/) is exactly what the name suggests. Prints a damn calendar. Genius!
+{{< hextra/hero-headline >}}
+
+It is exactly what the name suggests. Prints a damn calendar. Genius!
+{{< /hextra/hero-headline >}}
+
+{{< hextra/hero-subtitle >}}
+
+{{< /hextra/hero-subtitle >}}
+
+{{< cards cols="1">}}
+  {{< card link="https://print-a-calendar.com/" title="Go to print-a-calendar" icon="search" >}}
+{{< /cards >}}
+
+{{< /hextra/hero-container >}}
 
 ### More calendars?
 

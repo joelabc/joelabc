@@ -1,40 +1,54 @@
 ---
 title:
-type: default
+type: 
 ---
 
-> Lord fill my heart with love, my mind with peace and my whole body with gratitude and humility
+>Today is
+{{< date.inline ":date_full" >}}
+  {{- now | time.Format (.Get 0) -}}
+{{< /date.inline >}}.
+<br class="hx:sm:block hx:hidden" /> Lord fill my heart with love, my mind with peace and my whole body with gratitude and humility
 
-## **Hey there!**
+<br class="hx:sm:block hx:hidden" />
+ 
 
-I'm Joel Abraham
 
-![](joel.jpg)
+{{< hextra/hero-container image="/images/Signature.png"  cols=2 imageTitle="title" >}}
+    {{< hextra/hero-headline >}}
+  Welcome to my digital space. 
+{{< /hextra/hero-headline >}}
+{{< hextra/hero-subtitle >}}
+  Building a blog/portfolio/gallery whatever you'd like to call it.
+{{< /hextra/hero-subtitle >}}
+{{< /hextra/hero-container >}}
 
-| **`QA Engineer🐞`** | **`Photographer📷`** | **`Triathlete🏊🏽‍♂️🚴🏽‍♂️🏃🏽‍♂️`** |
-| ------------------- | -------------------- | ---------------------- |
+<br class="hx:sm:block hx:hidden" />
 
-{{% details title="Why" closed="true" %}}
-I've always felt the need to share the things I find interesting, and to do so at scale. My attempts so far have not been very focused. Eventually, the need to share outgrew the procrastination of getting started is all that I can say.
-{{% /details %}}
+{{< youtube c8S0gi-IXGM >}}
+<br class="hx:sm:block hx:hidden" />
 
-{{% details title="What" closed="true" %}}
-This site is a blog, portfolio, gallery, review forum, update board and more. The current framework is based on what excites me the most.
-{{% /details %}}
+If you would like to stick around and explore feel free to do so. I update this site every week.
 
-{{% details title="How" closed="true" %}}
-I didn't find themes to build on that I liked and was too lazy/had no time to build one from scratch (well I might in the future for the learning). Until I came across [Hextra](https://imfing.github.io/hextra/) by [Xin](https://imfing.com/). Hosted on GitHub Pages, pointing to my custom domain, it was a painless setup process. Now I can focus on writing than complaining.
-{{% /details %}}
 
-{{% details title="Side note" closed="true" %}}
 
-> [!WARNING]
-> This site is under development and things might be kooky here and there 👻.
+<!-- 
+{{< hextra/hero-section heading="h3" >}}Title{{< /hextra/hero-section >}}
+{{< hextra/hero-subtitle >}}
+  Fast, batteries-included Hugo theme for creating beautiful static websites
+{{< /hextra/hero-subtitle >}} -->
 
-I've been putting off the thought building a landing page of sorts for myself for quite some time. Although this isn't much to show for the time spent, I thought I might as well put myself out there for social accountability.
-{{% /details %}}
 
-Feedback would be invaluable at this stage. Let me know how I can make this better and help you in any way I can.
-{{< cards cols="5">}}
-{{< card link="mailto:joelabc.dev@gmail.com" title="Email" icon="mail" >}}
-{{< /cards >}}
+<!-- {{< hextra/feature-grid cols="3" >}}
+  {{< hextra/feature-card title="One" >}}
+  {{< hextra/feature-card title="Two" >}}
+  {{< hextra/feature-card title="Three" >}}
+{{< /hextra/feature-grid >}} -->
+
+<!-- {{< hextra/hero-badge >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
+  <span>Free, open source</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+
+{{< hextra/hero-button text="Get Started" link="/gallery" >}} -->

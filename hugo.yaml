@@ -30,12 +30,15 @@ menu:
     - name: Gallery
       pageRef: /gallery
       weight: 3
-    - name: Search
+    - name: Resume
+      pageRef: /resume
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/joelabc"
       params:
         icon: github
@@ -64,10 +67,10 @@ params:
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
     
-  banner:
-    key: 'announcement-xxx'
-    message: |
-      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
+  # banner:
+  #   key: 'announcement-xxx'
+  #   message: |
+  #     🎉 Welcome to my website, blog portfolio of sorts ! Let me know what you think -> [Email](mailto:joelabc.dev@gmail.com).
 
 services:
   googleAnalytics:

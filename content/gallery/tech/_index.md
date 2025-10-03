@@ -1,6 +1,7 @@
 ---
 title: Technology
 type: docs
+breadcrumbs: false
 ---
 
 ## Technology in glimpses

@@ -14,13 +14,22 @@ authors:
   - name: joelabc
     link: https://github.com/joelabc
     image: https://github.com/joelabc.png
-next: /cashew
 ---
 
-## TLDR;
+{{< hextra/hero-container image="/images/twos-app.png"  cols=2 imageTitle="title" >}}
 
-![](images/twos-app-icon.png)
-[Twos](https://www.TwosApp.com?code=joel) _(active referral link)_ is the best cross platform, completely free, feature rich note taking/PKM app with a responsive dev team that I am using for my own note taking needs for the last 2 years. Will it suit yours? I guess by the end of this post you will find out.
+{{< hextra/hero-headline >}}
+Twos is the best place to write _things_ down.
+{{< /hextra/hero-headline >}}
+
+{{< hextra/hero-subtitle >}}
+Cross platform, completely free, feature rich note taking/PKM app that I'm using since the last 2 years. You'll find everything you need and more. Will it suit yours needs? I guess by the end of this post we'll find out.{{< /hextra/hero-subtitle >}}
+
+{{< cards cols="1">}}
+  {{< card link="https://twosapp.com/" title="Get Twos" icon="download" >}}
+{{< /cards >}}
+
+{{< /hextra/hero-container >}}
 
 ### Why do you need another note taking app?
 

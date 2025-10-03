@@ -15,15 +15,22 @@ authors:
     link: https://github.com/joelabc
     image: https://github.com/joelabc.png
 ---
+{{< hextra/hero-container image="/images/cashew-app.png"  cols=2 imageTitle="title" >}}
+    {{< hextra/hero-headline >}}
+  Cashew is your one stop personal finance app.
+{{< /hextra/hero-headline >}}
+{{< hextra/hero-subtitle >}}
+  This open source project local first app does it all; expense tracking, budgeting, net worth calculation with beautiful UI and so much more! If you have not started tracking spends, give it a go.
+{{< /hextra/hero-subtitle >}}
 
-## TLDR;
-
-![](images/cashew-app.png)
-[Cashew](https://github.com/jameskokoska/Cashew) is your one stop personal finance app with expense tracking, budgeting, net worth calculation and so much more. It's code has been open sourced, the project is actively in development, the interface and animations are blissful, works locally with optional sync to your own cloud. Import, export and no limit on the history!
+{{< cards cols="1">}}
+  {{< card link="https://github.com/jameskokoska/Cashew" title="Get Cashew" icon="download" >}}
+{{< /cards >}}
+{{< /hextra/hero-container >}}
 
 ### Finances? Tracking? BORING!
 
-> “What is not defined cannot be measured. What is not measured, cannot be improved. What is not improved, is always degraded”. - William Thomson Kelvin
+> “What is not defined cannot be measured. What is not measured, cannot be improved. What is not improved, is always degraded”. <br class="hx:sm:block hx:hidden" /> - William Thomson Kelvin
 
 I've lost count of the number of times that I thought to myself along the lines of:
 

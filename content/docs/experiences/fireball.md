@@ -16,13 +16,24 @@ authors:
     image: https://github.com/joelabc.png
 ---
 
-## TLDR;
+{{< hextra/hero-container image="/images/meteor.png"  cols=2 imageTitle="title" >}}
 
-![](images/meteor.png)
+{{< hextra/hero-headline >}}
+No it was not my imagination!
+{{< /hextra/hero-headline >}}
 
-Image by [stanislao d'ambrosio](https://unsplash.com/photos/a-shooting-star-is-seen-in-the-night-sky-U99STX8A9vE)
-
+{{< hextra/hero-subtitle >}}
 Just like the title mentions, after years of trying to observe astronomical events, watching the night sky for comets, shooting stars I finally saw a fireball!
+{{< /hextra/hero-subtitle >}}
+
+{{< cards cols="1">}}
+  <!-- {{< card link="" title="" icon="" >}} -->
+{{< /cards >}}
+
+{{< badge content="Image by stanislao d'ambrosio" link="https://unsplash.com/photos/a-shooting-star-is-seen-in-the-night-sky-U99STX8A9vE" icon="camera" >}}
+
+{{< /hextra/hero-container >}}
+
 
 ### Fireball? What is that?
 
@@ -68,4 +79,4 @@ Turns out he and a few of his friends saw the same thing. As instructed I [repor
 
 Stoked. I thought about all the nights I spent on the roof of my house to catch a glimpse of the marvels in the sky. The first experience I had was of capturing a faint glimpse of the Milky Way galaxy while trying to capture star trails. Ever since, I hoped to witness something spectacular. A fireball was not on the list. But having seen one, I can only think of a verse from the Bible:
 
-> The heavens declare the glory of God, and the sky above proclaims his handiwork. Psalm 19:1
+> The heavens declare the glory of God, and the sky above proclaims his handiwork. <br class="hx:sm:block hx:hidden" /> [Psalm 19:1](https://www.bible.com/bible/111/PSA.19.1)

@@ -2,6 +2,7 @@
 title: Nature
 next: first-page
 type: docs
+breadcrumbs: false
 ---
 
 
@@ -18,7 +19,7 @@ type: docs
 
 #### Peak Curiosity
 
-![](2.jpg)-
+![](2.jpg)
 
 #### One mans trash another mans treasure
 
