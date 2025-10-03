@@ -28,8 +28,6 @@ type:
 {{< youtube c8S0gi-IXGM >}}
 
 
-&nbsp;<br class="hx:sm:block hx:hidden" />
-
 This is one video I made quite some time ago, but felt apt to share without any context.
 
 If you would like to stick around and explore feel free to do so. I update this site every week.
