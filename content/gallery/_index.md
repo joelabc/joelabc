@@ -7,7 +7,7 @@ breadcrumbs: false
 A digital showcase of my work.
 
 {{< cards cols="1" >}}
-{{< card link="/gallery/brands" title="Graphic design" image="/images/joelabc-logo-hero.png" subtitle="" tag="4" tagColor="green" >}}
+{{< card link="/gallery/brands" title="Graphic design" image="/images/joelabc-logo-hero.png" subtitle="" tag="7" tagColor="green" >}}
 {{< /cards >}}
 
 

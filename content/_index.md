@@ -3,11 +3,6 @@ title:
 type: 
 ---
 
->Today is
-{{< date.inline ":date_full" >}}
-  {{- now | time.Format (.Get 0) -}}
-{{< /date.inline >}}.
-
 >Lord fill my heart with love, my mind with peace and my whole body with gratitude and humility
 
 &nbsp;<br class="hx:sm:block hx:hidden" />

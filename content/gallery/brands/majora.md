@@ -1,5 +1,5 @@
 ---
-title: Majora Makeover
+title: Mejora Makeover
 type: docs
 breadcrumbs: false
 ---
