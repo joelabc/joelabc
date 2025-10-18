@@ -113,3 +113,5 @@ As an aspiring triathlete, even though I'm not really good at it, for the last f
 All said, it has undoubtedly been an invaluable learning experience through and through. It anchored me to a healthy lifestyle, to meet a lot of wonderful humans, experience first hand the need for discipline, working through failure, learning about biology, physiology, psychology and so much more. 
 
 Would you want to try it? Let me know! I will be happy to welcome you to the club.
+
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7385189003798638592/)
