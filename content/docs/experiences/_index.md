@@ -8,4 +8,5 @@ Wonderful experiences that I had the privilege to encounter. Everything in this 
 
 {{< cards cols="3" >}}
 {{< card link="/docs/experiences/fireball" title="🌠 I saw a fireball" image="/images/fireball.png" tagColor="green">}}
+{{< card link="/docs/experiences/triathlon" title="👀 But why triathlons?" image="/images/triathlon.png" tagColor="green">}}
 {{< /cards >}}
