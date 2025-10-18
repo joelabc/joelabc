@@ -40,7 +40,10 @@ As a 28 YO adult onset triathlete who is probably below average in all three spo
 
 ### Triathlon? What is that?
 
-It is an event with 3 disciplines; swimming biking and running. For the ones who are a bit more curious read more [here](https://triworldhub.com/types-of-triathlons/). Basically you start out swimming, then you get on the bike and finally finish the event with a run. The distances, environments cut off times etc. change based on the event but essentially this is what a triathlon is.
+It is an event with 3 disciplines; swimming biking and running. For the ones who are a bit more curious read more [here](https://triworldhub.com/types-of-triathlons/). Basically you start out swimming, then you get on the bike and finally finish the event with a run. The distances, environments cut off times etc. change based on the event but essentially this is what a triathlon is. I recently attended a camp by Sunil Menon from [Menon Fitness Systems](https://www.menon.fitness/).
+
+&nbsp;<br class="hx:sm:block hx:hidden" />
+{{< youtube F8Gowi4oO3E >}}
 
 ### Cool. But why triathlons?
 
