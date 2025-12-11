@@ -21,18 +21,36 @@ enableGitInfo: true
 
 menu:
   main:
-    - name: Interesting
-      pageRef: /docs
-      weight: 1
+    - identifier: interesting
+      name: "Interesting"
+      weight: 3
+    - name: "Experiences"
+      parent: interesting
+      url: "/docs/experiences"
+    - name: "Apps"
+      parent: interesting
+      url: "/docs/apps"
+    - name: "Websites"
+      parent: interesting
+      url: "/docs/websites"
     - name: About
       pageRef: /about
-      weight: 2
-    - name: Gallery
-      pageRef: /gallery
-      weight: 3
+      weight: 1
+    - identifier: gallery
+      name: "Gallery"
+      weight: 4
+    - name: "Brands"
+      parent: gallery
+      url: "/gallery/brands"
+    - name: "Nature"
+      parent: gallery
+      url: "/gallery/nature"
+    - name: "Technology"
+      parent: gallery
+      url: "/gallery/tech"
     - name: Resume
       pageRef: /resume
-      weight: 4
+      weight: 1
     - name: Search
       weight: 5
       params:
@@ -42,6 +60,10 @@ menu:
       url: "https://github.com/joelabc"
       params:
         icon: github
+    - name: Theme Toggle
+      params:
+        type: theme-toggle
+      label: true
 
 params:
   navbar:

@@ -15,7 +15,7 @@ I'm Joel Abraham
 {{< cards cols="3">}}
 {{< card link="/resume" title="QA Engineer" icon="eye" >}}
 {{< card link="/gallery" title="Photographer" icon="camera" >}}
-{{< card title="Triathlete" icon="cube-transparent" >}}
+{{< card link="/docs/experiences/triathlon" title="Triathlete" icon="cube-transparent" >}}
 {{< /cards >}}
 
 
