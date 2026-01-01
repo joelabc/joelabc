@@ -21,36 +21,66 @@ enableGitInfo: true
 
 menu:
   main:
-    - identifier: interesting
-      name: "Interesting"
-      weight: 3
-    - name: "Experiences"
-      parent: interesting
-      url: "/docs/experiences"
-    - name: "Apps"
-      parent: interesting
-      url: "/docs/apps"
-    - name: "Websites"
-      parent: interesting
-      url: "/docs/websites"
     - name: About
       pageRef: /about
       weight: 1
+      params:
+        type: link
+        icon: pencil-alt
+    - name: Resume
+      pageRef: /resume
+      weight: 2
+      params:
+        type: link
+        icon: bookmark-alt
+    - identifier: interesting
+      name: "Interesting"
+      weight: 3
+      params:
+        type: link
+        icon: sparkles
+    - name: "Experiences"
+      parent: interesting
+      url: "/docs/experiences"
+      params:
+        type: link
+        icon: chat-alt-2
+    - name: "Apps"
+      parent: interesting
+      url: "/docs/apps"
+      params:
+        type: link
+        icon: device-mobile
+    - name: "Websites"
+      parent: interesting
+      url: "/docs/websites"
+      params:
+        type: link
+        icon: globe
     - identifier: gallery
       name: "Gallery"
       weight: 4
+      params:
+        type: link
+        icon: photograph
     - name: "Brands"
       parent: gallery
       url: "/gallery/brands"
+      params:
+        type: link
+        icon: shopping-bag
     - name: "Nature"
       parent: gallery
       url: "/gallery/nature"
+      params:
+        type: link
+        icon: sun
     - name: "Technology"
       parent: gallery
       url: "/gallery/tech"
-    - name: Resume
-      pageRef: /resume
-      weight: 1
+      params:
+        type: link
+        icon: chip
     - name: Search
       weight: 5
       params:
@@ -89,10 +119,10 @@ params:
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
     
-  # banner:
-  #   key: 'announcement-xxx'
-  #   message: |
-  #     🎉 Welcome to my website, blog portfolio of sorts ! Let me know what you think -> [Email](mailto:joelabc.dev@gmail.com).
+  banner:
+    key: 'announcement-xxx'
+    message: |
+      🎉 Happy New Year 2026 🎉.
 
 services:
   googleAnalytics:
