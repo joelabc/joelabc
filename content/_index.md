@@ -25,7 +25,7 @@ type:
 
 This is one video I made quite some time ago, but felt apt to share without any context.
 
-If you would like to stick around and explore feel free to do so. I update this site every week.
+If you would like to stick around and explore feel free to do so.
 
 
 
