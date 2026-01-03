@@ -14,7 +14,7 @@ Check them out : [Aaryas](https://wynadexports.com/)
 ## Branding, Print Design
 
 
-![brand kit](images/a-hero.png)
+![brand kit](images/a-hero.jpeg)
 
 
 

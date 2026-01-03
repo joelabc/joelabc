@@ -9,7 +9,7 @@ Founded in 2020, Kyatsa Solutions was created with the aim of providing affordab
 ## Brand Identity, Logo Design, Marketing
 
 
-![brand kit](images/ks-hero.png)
+![brand kit](images/ks-hero.jpeg)
 
 
 

@@ -9,7 +9,7 @@ Ideated in 2021, Kyatsa Menu was created to help restaurants an cafes to take th
 ## Branding, Logo Design, Marketing
 
 
-![brand kit](images/km-hero.png)
+![brand kit](images/km-hero.jpeg)
 
 
 

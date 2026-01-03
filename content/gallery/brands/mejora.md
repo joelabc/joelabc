@@ -11,7 +11,7 @@ Contact them : [Mejora  Makeover](https://www.instagram.com/mejora_makeover/)
 ## Logo design
 
 
-![brand kit](images/majora-hero.png)
+![brand kit](images/majora-hero.jpeg)
 
 
 
