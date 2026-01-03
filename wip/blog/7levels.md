@@ -1,5 +1,5 @@
 ---
-title: 📅 print-a-calendar
+title: 7️⃣ Levels Deep
 type: blog
 sidebar:
   open: true
@@ -9,7 +9,7 @@ tags:
   - print
   - time
   - tools
-date: 2025-04-10
+date: 2026-01-02
 authors:
   - name: joelabc
     link: https://github.com/joelabc
@@ -33,4 +33,19 @@ It is exactly what the name suggests. Prints a damn calendar. Genius!
 
 {{< /hextra/hero-container >}}
 
+{{< hextra/feature-grid cols="3" >}}
+  {{< hextra/feature-card title="One" >}}
+  {{< hextra/feature-card title="Two" >}}
+  {{< hextra/feature-card title="Three" >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-card title="Title" subtitle="Subtitle" >}}
+
+
+
+{{< hextra/hero-button text="Get Started" link="/docs" >}}
+
 ### More calendars?
+
+
+

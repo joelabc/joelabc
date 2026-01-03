@@ -10,7 +10,7 @@ They have an amazing collection of ethnic wear, matching family dress sets, and 
 
 Check them out : [Disha Creationz](https://dishacreationz.com/)
 
-![website snapshot](images/dc-hero.png)
+![website snapshot](images/dc-hero.jpeg)
 
 ## Branding, Logo Design, Product Photography
 
