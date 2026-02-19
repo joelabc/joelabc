@@ -12,10 +12,10 @@ breadcrumbs: false
 
 #### Tiny brother is watching
 
-![](6.jpg)
+![](6.jpeg)
 #### A wanderer who is lost
 
-![](1.jpg)
+![](1.jpeg)
 
 #### Peak Curiosity
 
